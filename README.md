@@ -296,4 +296,4 @@ Potential v2.0 features:
 
 This project is intended for educational and portfolio purposes.
 
-Developed by Kalid Mohammed
+Developed by [Kalid Mohammed](https://kalid.zemzemlabs.com/)
