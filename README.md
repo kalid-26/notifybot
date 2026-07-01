@@ -243,11 +243,11 @@ This schedules a broadcast to be sent after 60 seconds.
 * start command
 ![start command](screenshots/start_cmd.png)
 
-* broadcast command
-![braodcast command](screenshots/broadcast_cmd.png)
-
 * help command
 ![help command](screenshots/help_cmd.png)
+
+* broadcast command
+![braodcast command](screenshots/broadcast_cmd.png)
 
 ## Technologies Used
 
